@@ -52,4 +52,4 @@ Sinta-se à vontade para contribuir ou reportar problemas. Abra uma issue ou env
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença Apache 2.0](LICENSE).
